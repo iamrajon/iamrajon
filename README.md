@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 I'm Rajon
 
-<!--
-**iamrajon/iamrajon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer, interested in solving problems, building impactful applications, and continuously learning.
 
-Here are some ideas to get you started:
+## 🌟 About Me:
+- 💻 Currently exploring **Flutter** for mobile app development.
+- 🌐 Backend experience with **Django** and **Django Rest Framework**.
+- 📊 Learning **Machine Learning and AI** for innovative projects.
+- 🎯 Improving problem-solving skills on **LeetCode** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Skills:
+- **Languages**: Python, Dart, Javascript, java and SQL
+- **Frameworks & Libraries**: Django, DRF, Flutter, React
+- **Tools**: PostgreSQL, Redis, Docker, Git
+
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/rajanc1209/)
+- Email: vengrajon84@gmail.com
