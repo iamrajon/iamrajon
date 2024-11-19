@@ -3,11 +3,11 @@
 I'm a passionate developer, interested in solving problems, building impactful applications, and continuously learning.
 
 ### 🌟 About Me:
-- 💻 Currently exploring **Flutter** for mobile app development.
+- 🚀 Python Enthusiast: Python is my primary programming language and the foundation of most of my projects.
 - 🌐 Backend experience with **Django** and **Django Rest Framework**.
 - 📊 Learning **Machine Learning and AI** for innovative projects.
-- 🎯 Improving problem-solving skills on **LeetCode** 
+- 💻 I have also worked with Javascript, React , Dart and Flutter amongst other stuff
+- 🎯 Improving problem-solving skills on **LeetCode**
+- 📫 How to reach me vengrajon84@gmail.com
 
-### 📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/rajanc1209/)
-- Email: vengrajon84@gmail.com
+
